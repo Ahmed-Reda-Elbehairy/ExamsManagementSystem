@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Add Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Create Schedule Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Create_Assignment_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exam_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Issue Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Note_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrincipleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="principleNotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Send Notification Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sign in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeacherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Update teacher form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View Exams Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View Students Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View Teachers Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Grades_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

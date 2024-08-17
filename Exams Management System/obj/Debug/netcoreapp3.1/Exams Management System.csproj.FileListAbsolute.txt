@@ -1,0 +1,32 @@
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\bin\Debug\netcoreapp3.1\Exams Management System.exe
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\bin\Debug\netcoreapp3.1\Exams Management System.deps.json
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\bin\Debug\netcoreapp3.1\Exams Management System.runtimeconfig.json
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\bin\Debug\netcoreapp3.1\Exams Management System.runtimeconfig.dev.json
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\bin\Debug\netcoreapp3.1\Exams Management System.dll
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\bin\Debug\netcoreapp3.1\Exams Management System.pdb
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams Management System.csproj.AssemblyReference.cache
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.PrincipleForm.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.Form1.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams Management System.csproj.GenerateResource.cache
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams Management System.AssemblyInfoInputs.cache
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams Management System.AssemblyInfo.cs
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams Management System.csproj.CoreCompileInputs.cache
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams Management System.dll
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams Management System.pdb
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams Management System.genruntimeconfig.cache
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.TeacherForm.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.Update_teacher_form.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.View_Teachers_Form.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.View_Students_Form.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.View_Exams_Form.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.Add_Student.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.Create_Schedule_Form.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.Exam_Edit.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.View_Grades_Form.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.Issue_Report.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.Create_Assignment_Form.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.Send_Notification_Form.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.Student_Form.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.Note_Form.resources
+D:\College\7th sem\Design patterns\Project\Exams Management System\Exams Management System\obj\Debug\netcoreapp3.1\Exams_Management_System.principleNotes.resources
